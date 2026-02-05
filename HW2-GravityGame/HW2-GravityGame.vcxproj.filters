@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HW1-Hangman.cpp">
+    <ClCompile Include="HW2-GravityGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
